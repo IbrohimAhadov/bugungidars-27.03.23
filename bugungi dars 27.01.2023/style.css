@@ -1,0 +1,31 @@
+
+
+
+
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: #663399;
+    color: #663399;
+    font-size: 25px;
+    text-align: center;
+    line-height: 200px;
+    border-radius: 20px;
+    margin: 10px;
+-moz-box-align: center;
+}
+button{
+    background-color: #663399;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+    border-top-right-radius: 20%;
+
+
+}
+.tune{
+    display: inline;
+    border: 1px white;
+    right: 10px;
+}
