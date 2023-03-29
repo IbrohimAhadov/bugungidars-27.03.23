@@ -1,0 +1,14 @@
+button{
+    color: blue;
+margin: 10px;
+    padding: 30px;
+    width: 100px;
+    text-align: center;
+    background-color: aquamarine;
+
+}
+.but{
+    background-color: red;
+    border-radius: 50%;
+    
+}
