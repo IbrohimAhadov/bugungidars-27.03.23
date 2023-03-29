@@ -1,0 +1,83 @@
+p::first-line {
+    color: #ff0000;
+    font-variant: small-caps;
+    text-decoration: solid;
+    display: inline;
+    text-decoration-line:underline ;
+
+
+  }
+  span{
+   
+    border-radius: 90%;
+    border-color: #000000;
+    background-color: #19fd00;
+    
+  }
+  .salom{
+    font-family: 'Tillana', cursive;
+  }
+  .links{
+    background-color: aqua;
+    display: inline;
+    border: 1px black dotted;
+  }
+
+
+  .container {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.my-p {
+    position: absolute;
+
+    top: 20px;
+    left: 200px;
+    background-color: rgb(154, 208, 221);
+    padding: 10px;
+    border: 1px solid rgb(140, 212, 241);
+    width: 200px;
+    height: 100px;
+}
+.my-z{
+    position: absolute;
+    top: 50px;
+    left:200px;
+    background-color: rgb(154, 208, 221);
+    padding: 10px;
+    border:0.3p solid rgb(145, 185, 216);
+    width: 200px;
+    height: 100px;
+}
+.my-j{
+    position: absolute;
+    top: 80px;
+    left:200px;
+    background-color: rgb(154, 208, 221);
+    padding: 10px;
+    border:0.3p solid rgb(145, 185, 216);
+    width: 200px;
+    height: 100px;
+
+}
+.my-i{
+    position: absolute;
+    top: 140px;
+    left:200px;
+    background-color: rgb(154, 208, 221);
+    padding: 10px;
+    border:0.3p solid rgb(145, 185, 216);
+    width: 200px;
+    height: 100px;
+    font-family: 'Tillana', cursive;
+}
+a{
+    background-color: red;
+}
+*{
+    cursor: context-menu;
+}
